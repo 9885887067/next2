@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.cart-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cart-image {
+  height: 150px;
+  width: 150px;
+}
+.cart {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: black;
+}
